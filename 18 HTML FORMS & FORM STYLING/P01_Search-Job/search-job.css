@@ -1,0 +1,98 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 14px;
+    font-family: 'Tahoma', 'Helvetica';
+    padding: 80px 50px;
+}
+
+nav{
+    width: 75%;
+}
+
+nav>ul{
+    background: #384452;
+}
+
+ul>li{
+    display: inline-block;
+    list-style:none;
+    padding: 25px;
+}
+
+ul>li>a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #8BAEC2;
+}
+
+ul>li>a::before{
+    font-family:'FontAwesome', serif;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+li:first-child a::before{
+    content: '\f002';
+}
+
+li:nth-child(2) a::before{
+    content: '\f02c';
+}
+
+li:nth-child(3) a::before{
+    content: '\f041';
+}
+
+li:nth-child(4) a::before{
+    content: '\f007';
+}
+
+li:hover{
+    color: #ffffff;
+}
+
+
+main{
+    background: #EEEEEE;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+label{
+    color: #374574;
+    display: block;
+    font-weight: bold;
+    width: 210px;
+    margin-left: 38px;
+    margin-top: 20px;
+}
+
+input{
+    border:1px solid #CDCDCD;
+    margin: 20px 0;
+    height: 46px;
+    padding-left: 14px;
+    display: block;
+}
+button {
+    margin-left: 38px;
+    width: 210px;
+    height: 46px;
+    text-transform: uppercase;
+    background: #384452;
+    color: #CED1CA;
+    border:none;
+}
+
+button:hover{
+    background: #3BBC96;
+    color: #FFF7E4;
+    cursor: pointer;
+}

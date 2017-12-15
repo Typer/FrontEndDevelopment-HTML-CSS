@@ -1,0 +1,147 @@
+@media all and (max-width: 480px) {
+    body{
+        max-width:100%;
+        margin:0 auto;
+    }
+
+    body .menu {
+        max-width: 100%;
+        display: flex;
+    }
+
+    .menu span {
+        width: 100%;
+        margin-left: 0;
+        padding-top: 25px;
+        padding-left: 20px;
+    }
+
+    .menu ul {
+        display: none;
+    }
+
+    .fa-bars {
+        display: block;
+        padding-top: 23px;
+        padding-right: 20px;
+        font-size: 22px;
+    }
+
+    .about-us {
+        max-width: 100%;
+        padding: 0;
+        height: auto;
+    }
+
+    .about-us p {
+        width: 100%;
+        padding-left: 15px;
+        font-size: 17px;
+        margin-bottom: 30px;
+        padding-bottom: 50px;
+        padding-top: 0;
+    }
+
+    .about-us h1{
+        font-size: 23px;
+        padding-left: 15px;
+        padding-top: 50px;
+        font-weight: 600;
+    }
+
+    .about-us p:nth-child(3){
+        display: none;
+    }
+
+    .about-us p:after{
+        content: "This is the best mountain hotel.";
+    }
+
+    .best-place{
+        width:100%;
+        height: auto;
+        margin-top: 0;
+    }
+
+    .headings{
+        margin-top: 0;
+        width: 90%;
+        font-weight: 900;
+        font-size: 23px;
+    }
+
+    .paragraph{
+        width: 90%;
+    }
+
+    hr{
+        width:25%;
+    }
+
+    .views{
+        display: block;
+        width: 100%;
+    }
+
+    .views img{
+        margin: 8px 0;
+        width: 96%;
+    }
+
+    #second-heading{
+        margin-top: 20px;
+        width: 90%;
+    }
+
+    .why-us{
+        display: block;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .why-us article{
+        width: 100%;
+    }
+
+    .text-container h4{
+        margin-bottom: 20px;
+    }
+
+    .text-container p{
+        width: 90%;
+    }
+
+    .headings:last-of-type{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .final-section{
+        width: 95%;
+        margin:0 auto;
+    }
+
+    .our-team{
+        display: block;
+        /*margin-bottom: 30px;*/
+    }
+
+    .our-team article{
+        margin-right: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .our-team p:last-of-type{
+        margin-bottom: 0;
+        padding-bottom: 30px;
+    }
+
+    .team-presenting{
+        width: 100%;
+        margin-bottom: 0px;
+    }
+
+
+
+}

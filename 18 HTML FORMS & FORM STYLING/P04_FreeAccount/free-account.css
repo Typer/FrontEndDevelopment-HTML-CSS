@@ -1,0 +1,143 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Tahoma', 'Helvetica', sans-serif;
+}
+
+main{
+    width: 800px;
+    margin:0 auto;
+}
+
+header h1{
+    padding:30px 0px;
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+header  p{
+    text-align: center;
+    font-size: 14px;
+    padding-bottom: 25px;
+    border-bottom:1px solid #929292;
+}
+
+.left-form,
+.right-form{
+    vertical-align: top;
+    width:45%;
+    display: inline-block;
+    font-weight:bold;
+    font-size: 18px;
+    padding-left: 37px;
+    /*box-sizing: border-box;*/
+    /*Tova ne go zabravqi*/
+}
+
+input[type="text"], [type="password"],[type="email"]{
+    box-sizing: border-box;
+    display: block;
+    width: 90%;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 14px;
+    color: #bcbcbc;
+    background: none;
+    border:1px solid #bcbcbc;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin:20px 0;
+    padding-right: 20px;
+
+}
+
+.form-group{
+    position: relative;
+}
+
+i{
+    position: absolute;
+    top: 2px;
+
+}
+
+.fa-window-close{
+    color: #FC111B;
+    font-size: 2em;
+    left: 282px;
+}
+
+.fa-check-square{
+    color: #29FD2F;
+    font-size: 2em;
+    left: 287px;
+}
+
+form{
+    margin-top: 25px;
+}
+
+a{
+    display: block;
+    font-size: 12px;
+    font-weight:lighter;
+}
+
+a:hover{
+    color: red;
+}
+
+.radio-button{
+    /*display: inline-block;*/
+}
+
+.radio-button input{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.radio-button{
+    width: 275px;
+    font-size: 13px;
+    font-weight:normal;
+    display: inline-block;
+    vertical-align: top;
+    color: #bcbcbc;
+
+}
+
+input [type="checkbox"]{
+    width: 90%;
+    height: 40px;
+    display: block;
+    margin-top: 15px;
+    background: #bcbcbc;
+}
+
+button{
+    margin-top: 20px;
+    height:40px;
+    width: 300px;
+    border:none;
+    background: #dadada;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 1px #cbcbcb;
+    font-size: 16px;
+}
+
+
+button:hover{
+    background: #B0DD6E;
+}

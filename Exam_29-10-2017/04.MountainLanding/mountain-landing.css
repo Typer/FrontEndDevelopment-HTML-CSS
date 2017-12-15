@@ -1,0 +1,301 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width:100%;
+    background: #ffffff;
+    font-family:'Lato', 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #3D3D34;
+}
+
+/******************** Header ********************/
+
+header{
+    width:100%;
+    height: 550px;
+    background: #4f4f4f;
+    position: relative;
+    z-index: 0;
+    color: #ffffff;
+}
+
+.background-img{
+    width:100%;
+    height: 550px;
+    background: url("images/header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 2;
+    position: absolute;
+    opacity: 0.6;
+    vertical-align: middle;
+}
+
+.wrapper{
+    width: 55%;
+    margin:0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+    padding-top: 20px;
+}
+
+/*nav*/
+
+nav img{
+    float: left;
+}
+
+nav ul{
+    display: flex;
+    float:right;
+    padding-top: 7px;
+}
+
+nav ul li{
+    list-style: none;
+    margin-right: 30px;
+}
+
+nav ul li:nth-child(7){
+    margin-right: 0px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav:after{
+    clear: both;
+    content: "";
+    display: block;
+}
+
+/*h1*/
+
+.header{
+    width: 500px;
+    margin:0 auto;
+    margin-top: 100px;
+
+}
+
+h1{
+    font-size:47px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.header p{
+    font-size: 16px;
+    color: #ffffff;
+    padding-top: 10px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+nav::after{
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.header h1:nth-child(2){
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.more-info{
+    height: 40px;
+    width: 120px;
+    background: #CABB9D;
+    text-transform: uppercase;
+    border:none;
+    color: #ffffff;
+    margin-top: 40px;
+}
+
+/******************** Section - About Us ********************/
+
+.about-us {
+    width: 80%;
+    margin: 80px auto;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+}
+
+.italic{
+    font-style: italic;
+    margin-bottom: 80px;
+}
+
+p{
+    font-size: 14px;
+    color: #A9A9A9;
+}
+
+.lorem-ipsum{
+    margin:0 auto;
+    width: 80%;
+    line-height: 150%;
+}
+
+/******************** Section - Types ********************/
+
+.types{
+    width: 100%;
+    background: #F6F6F6;
+    display: flex;
+    justify-content:space-between;
+}
+
+.types article{
+    width: 30%;
+    text-align: center;
+}
+
+.types article img{
+    width: 60px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+h3{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.types article p{
+    margin:0 auto;
+    width: 60%;
+    margin-bottom: 50px;
+    line-height: 150%;
+}
+
+/******************** Section - Team ********************/
+
+.team{
+    width: 100%;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.employees{
+    width:92%;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.employees article{
+    width:18%;
+}
+
+.employees article img{
+    width:100%;
+}
+
+.team .italic{
+    margin-bottom: 60px;
+}
+
+.employees article .name{
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #3D3D34;
+    font-family:'Montserrat', sans-serif;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.location{
+    font-size: 17px;
+    width:90%;
+    margin:0 auto;
+    margin-bottom: 50px;
+}
+
+/******************** Section - Blog ********************/
+
+.blog{
+    background: #F6F6F6;
+    width: 100%;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.blog h2{
+    padding-top: 60px;
+}
+
+.projects{
+    width: 92%;
+    display: flex;
+    justify-content:space-around;
+    margin:0 auto;
+    border:none;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.projects article{
+    width: 40%;
+    display: flex;
+    background: #ffffff;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 34px 0px #9e9e9e;
+
+}
+
+figure{
+    width: 49%;
+}
+
+figure img{
+    width: 100%;
+}
+
+.texta{
+    width:49%;
+}
+
+h5{
+    text-align: left;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 40px;
+    font-family:'Montserrat', sans-serif;
+    line-height:40px;
+}
+
+.pic{
+    width: 100%;
+    height: 330px;
+    overflow: hidden;
+}
+
+
+.texta p{
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    line-height: 30px;
+    margin-top: 10px;
+}

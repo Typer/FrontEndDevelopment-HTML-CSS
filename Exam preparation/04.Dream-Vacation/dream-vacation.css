@@ -1,0 +1,223 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+/******************** Header ********************/
+
+header{
+    width:100%;
+    height: 670px;
+    background: #4f4f4f;
+    position: relative;
+    z-index: 0;
+}
+
+.background-img{
+    width:100%;
+    height: 670px;
+    background: url("images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 2;
+    position: absolute;
+    opacity: 0.6;
+}
+
+.wrapper{
+    width: 80%;
+    margin:0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+    padding-top: 20px;
+}
+
+/*nav*/
+
+nav img{
+    float: left;
+}
+
+nav ul{
+    display: flex;
+    float:right;
+    padding-top: 7px;
+}
+
+nav ul li{
+    list-style: none;
+    margin-right: 30px;
+}
+
+nav ul li:nth-child(7){
+    margin-right: 0px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav:after{
+    clear: both;
+    content: "";
+    display: block;
+}
+
+/*h1*/
+
+.header{
+  margin-top: 230px;
+}
+
+h1{
+    font-size:47px;
+    color: #ffffff;
+}
+
+.header p{
+    font-size: 16px;
+    color: #ffffff;
+    padding-top: 10px;
+    letter-spacing: 1px;
+}
+
+nav::after{
+    clear: both;
+    content: "";
+    display: block;
+}
+
+/******************** Main-section ********************/
+
+main{
+    width: 100%;
+    height: auto;
+    background: #F5F5F5;
+}
+
+/*main-header*/
+.main-header, section,.footer-header{
+    margin:0 auto;
+    width: 80%;
+}
+
+.main-header, .footer-header{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+h2{
+    padding-bottom: 5px;
+}
+
+/*Section*/
+
+section{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+article{
+    width:32%;
+}
+
+figure img{
+    width: 100%;
+}
+
+figcaption{
+    background: #ffffff;
+    margin:10px 0;
+    width: 100%;
+    height: 40px;
+    margin-top: -3px;
+}
+
+figcaption span{
+    padding:10px 0;
+}
+
+figcaption span:nth-child(1){
+    font-weight: 600;
+    float: left;
+    padding-left: 10px;
+}
+
+figcaption span:nth-child(2){
+    float: right;
+    padding-right: 10px;
+}
+
+section{
+    margin-top: 15px;
+}
+
+section:nth-child(3){
+    padding-bottom: 50px;
+}
+
+/******************** Footer-section ********************/
+
+.footer-section{
+   padding-bottom: 50px;
+    margin: 30px auto;
+}
+
+h3{
+    margin: 30px auto;
+    text-transform: uppercase;
+}
+
+.footer-section article{
+    text-align: center;
+}
+
+.footer-section article img{
+    border-radius: 50%;
+}
+
+.user-info {
+    font-size: 13px;
+}
+
+/******************** Bash-Footer ********************/
+
+.footer-foot{
+    width: 80%;
+    margin:0 auto;
+    padding:20px 0;
+}
+
+.footer-foot.copy{
+    float: left;
+}
+
+.footer-ul{
+    display: flex;
+    justify-content:flex-end;
+}
+
+.footer-ul>li{
+    list-style: none;
+    margin-left: 30px;
+}
+
+p.copy{
+    margin-bottom: -16px;
+}
+
+/******************** Fucking END ********************/

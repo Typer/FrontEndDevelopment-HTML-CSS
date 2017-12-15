@@ -1,0 +1,47 @@
+@media all and (max-width: 479px){
+    .header-wrapper{
+        max-width:100%;
+        background:#000000;
+    }
+
+    .logo-image-container{
+        display: block;
+        text-align: center;
+    }
+
+    .top-button{
+        display: none;
+    }
+
+    .wrapper{
+        display: block;
+        text-align: center;
+    }
+
+    .travel-section{
+        width: 100%;
+    }
+
+    .travel-title-container,
+    .travel-subtitle{
+        max-width:100%;
+    }
+
+    .footer-wrapper{
+        max-width: 100%;
+    }
+
+    .logo-image-container{
+        display: block;
+        text-align: center;
+        margin: 0;
+        padding: 10px 0;
+    }
+
+    .footer-list{
+        float: none;
+        text-align: center;
+        max-width: 100%;
+        padding: 0;
+    }
+}

@@ -1,0 +1,176 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:'Tahoma', Helvetica, sans-serif;
+    font-size: 13px;
+    background: #EBEBEB;
+}
+
+header{
+    margin:0 auto;
+    width: 1000px;
+    height: 70px;
+    background: #F1F1F1;
+}
+
+h1{
+    font-size: 28px;
+    color: #40A4E2;
+    font-weight: 200;
+    letter-spacing: 1px;
+    line-height: 70px;
+    padding-left: 10px;
+}
+
+main{
+    width: 1000px;
+    margin:0 auto;
+}
+
+h2{
+    font-size: 16px;
+}
+
+.text-area{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width:73%;
+    display: inline-block;
+}
+
+.text-area>h2 {
+    padding-bottom: 15px;
+}
+
+.search-area{
+    margin-top: 36px;
+    margin-bottom: 15px;
+    width:26%;
+    text-align: right;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.search-area h3{
+    font-size: 12px;
+    padding-bottom: 6px;
+    margin-right: 142px;
+}
+
+.search-area input{
+    width: 180px;
+    height: 25px;
+    /*position: relative;*/
+}
+
+section{
+    border:none;
+    border-top:1px dashed #DEDEDE ;
+    border-bottom:1px dashed #DEDEDE;
+}
+
+form{
+    margin-top: 20px;
+}
+
+.personal-details{
+    width:50%;
+    float: left;
+}
+
+.personal-details>h2{
+    padding-bottom: 5px;
+}
+
+
+.personal-details input{
+    display: block;
+    width: 180px;
+    height: 25px;
+    padding-left: 5px;
+    font-size: 12px;
+    margin-bottom:12px;
+}
+
+.request-reservation{
+    width:50%;
+    display: inline-block;
+}
+
+.first-form {
+    margin-top: 5px;
+}
+
+.second-form{
+    margin-top: 5px;
+}
+
+input[type="number"] {
+    width: 155px;
+    height: 25px;
+}
+
+.first-form input,
+.second-form input {
+    display: block;
+}
+
+.first-form label,
+.second-form label{
+    display: inline-block;
+}
+
+label[name="first"]{
+    width:65%;
+}
+
+select[name="select-room"]{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: white;
+    width: 100%;
+    height: 27px;
+    display: block;
+    border:none;
+
+
+}
+
+.request-reservation input, select{
+    margin-top: 5px;
+    padding-left: 5px;
+    font-size: 12px;
+}
+
+#check-in, #check-out{
+    width:48%;
+}
+
+.second-form input{
+    width:98%;
+    height: 25px;
+}
+
+#check-out{
+    padding-left: 5px;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    border:none;
+    color: #ffffff;
+    background: #40A4E2;
+    font-size: 14px;
+    border-radius: 7px;
+    float: right;
+    margin-top: 40px;
+}
+
+

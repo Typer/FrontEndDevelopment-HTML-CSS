@@ -1,0 +1,103 @@
+@font-face {
+    font-family: lemon;
+    src: url("fonts/Lemon-Regular.ttf");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: lemon, Arial;
+    background: #5F3073;
+    text-align: center;
+}
+
+section{
+    margin:30px auto;
+    width: 900px;
+    background: #FDAD41;
+    border-radius: 20px;
+}
+
+h1{
+    padding-top: 13px;
+    text-transform: capitalize;
+}
+
+article{
+    display: inline-block;
+    background: #5E2255;
+    width: 220px;
+    border-radius: 20px 0 20px 0;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    margin-left: 27px;
+    margin-right: 27px;
+}
+
+h2{
+    margin-top:10px;
+    margin-bottom: 5px;
+    color: #ffffff;
+    font-size: 22px;
+}
+
+p{
+    color: #FDAD41;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+p:first-letter{
+    text-transform: uppercase;
+}
+
+img{
+    width: 90%;
+    border:5px solid #816B73;
+    border-radius: 100px;
+}
+
+ul{
+    margin-top:5px;
+}
+
+ul li{
+    list-style: none;
+    text-align: left;
+    font-size: 14px;
+    margin-left: 25px;
+    padding: 0;
+    line-height: 1.4;
+    color: #ffffff;
+}
+
+button{
+    margin-top:10px;
+    margin-bottom:15px;
+    font-family: lemon;
+    font-size: 15px;
+    color: #9453FB;
+    padding:5px 50px;
+    background: #ffffff;
+    border:1px solid #E7E7E7;
+    border-radius: 15px ;
+}
+
+button:first-letter{
+    text-transform: uppercase;
+}
+
+
+/*Font size: 24px for the main title, 22px for price of watches, */
+/*15px for info of the watches, 15px for the buttons.*/
+
+/*Watches container width:  900px.*/
+/*Columns width: 220px.*/
+
+/*backgound body 5F3073*/
+/*bckgrnd section FDAD41*/
+/*bckgrnd article 5E2255*/
+/*border color 816B73*/

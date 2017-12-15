@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700" rel="stylesheet');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin:0 auto;
+    background: #A89079;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+nav{
+    height: 40px;
+    width:100%;
+    color: #ffffff;
+}
+nav:after{
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.brand{
+    float: left;
+    font-weight: 700;
+    font-size: 18px;
+    padding:20px 30px;
+}
+
+.nav-primary{
+    margin-top:20px;
+    margin-right:25px;
+    float: right;
+    padding: 0px;
+    height:40px;
+    line-height: 40px;
+    list-style: none;
+}
+
+.nav-primary .nav-item{
+    text-align: center;
+    display: inline-block;
+}
+
+.nav-item a{
+    color: #ffffff;
+    padding:7px 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.nav-item:last-of-type a{
+    border:1px solid #ffffff;
+    border-radius: 14px;
+}
+
+.nav-item:last-of-type a:hover{
+    border:1px solid #857261;
+    background: #857261;
+}
+
+header{
+    margin-top:-40px;
+    text-align: center;
+    width:100%;
+    height:700px;
+    background: radial-gradient(rgba(192,169,145,1), rgba(192,169,145,1), rgba(168,143,121,1));
+}
+
+.header-title{
+    text-transform: capitalize;
+    font-size: 38px;
+    font-weight:400;
+    padding-top:150px;
+}
+
+.header-subtitle{
+    font-weight: 100;
+    font-size:12px;
+    padding:20px 0;
+}
+
+.header-potato{
+    margin-top: 20px;
+    width: 400px;
+}
+
+.features{
+    width:100%;
+    height:750px;
+    background: url("images/potato-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #000000;
+}
+.features-title{
+    font-weight:300;
+    font-size:38px;
+    padding-top: 200px;
+    text-transform: capitalize;
+}
+
+.features-subtitle{
+    margin:10px auto;
+    font-weight:300;
+    line-height:130%;
+    width:500px;
+
+}
+
+.feature-potatoes{
+    width:400px;
+}
+
+.buy-now{
+    margin:0 auto;
+    width: 100%;
+    height: 700px;
+    color: #000000;
+    font-weight:300;
+    background: #fafafa;
+    text-align: center;
+}
+
+.order-title {
+    font-weight: 300;
+    font-size: 38px;
+    padding-top: 50px;
+    text-transform: capitalize;
+}
+
+/*Herer to add something if its neseceedry*/
+
+.potato-types{
+    text-align: center;
+    list-style: none;
+    /*list-style: none;*/
+}
+
+.potato{
+    margin-top:50px;
+    display: inline-block;
+    width: 300px;
+    height:510px;
+    vertical-align: top;
+    border-right: 1px solid #A5A4A5;
+}
+
+.potato-title{
+    text-transform: capitalize;
+    font-size:30px;
+    font-weight:300;
+}
+
+.potato-features{
+    list-style: none;
+}
+
+.potato-description{
+    margin-top: 25px;
+}
+
+.btn-order{
+    margin-top:15px;
+    margin-bottom:10px;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #B1D668;
+    padding: 6px 16px;
+    background: none;
+    border:1.5px solid #B1D668;
+    border-radius: 20px;
+}
+
+.btn-order:hover{
+    color: #ffffff;
+    background: #B1D668;;
+    border:1.5px solid #B1D668;
+
+}
+
+.potato-img{
+    padding-top:60px;
+    width:200px;
+}
+
+footer{
+    background: #867260;
+}
+
+.footer-text{
+    text-align: center;
+    line-height: 40px;
+    background: #867260;
+}

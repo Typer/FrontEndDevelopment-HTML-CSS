@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,800');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin:0 auto;
+    text-align: center;
+    background: #F0F0E8;
+    font-family:'Open Sans', 'Helvetica', sans-serif;
+}
+
+header{
+    margin-top:50px;
+}
+
+h1{
+    color: #159288;
+    font-weight: 800;
+    text-transform: capitalize;
+    margin:40px 0;
+}
+
+header>p, h2{
+    font-size: 16px;
+    color: #7C8084;
+}
+
+h2{
+    margin:15px 0;
+}
+
+article{
+    margin: 10px 5px;
+    width:220px;
+    display: inline-block;
+    box-sizing: border-box;
+    border-left: 10px solid #F0F0E8;
+
+}
+
+section{
+    margin-top: 10px;
+}
+
+figure{
+    margin-top: 30px;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 30px;
+}
+
+h3{
+    color: #7C8084;
+    margin-top: 10px;
+
+}
+h3:first-letter{
+    text-transform: capitalize;
+}
+
+h3+p{
+    margin:15px auto;
+    font-size: 13px;
+    width: 180px;
+}
+
+article:hover{
+    background: #F6F6F5;
+    border-left: 10px solid #159288;
+}
+
+/*background #F0F0E8;*/
+/*text #159288;*/
+/*paragraph #7C8084;*/
+/*hover #F6F6F5;*/
+
+
+/*The font in the entire */
+/*page is */
+/*OpenSans-ExtraBold / Helvetica / sans-serif */
+/*(size: 56px for the main heading, 16px for the texts).*/

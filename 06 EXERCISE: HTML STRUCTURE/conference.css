@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+    font-family: 'Lato';
+    margin:0;
+    font-weight: 100;
+    position: relative;
+}
+
+/*Header Start*/
+
+header{
+    background: #293F50;
+    text-align: center;
+    height:520px;
+    margin:0;
+
+}
+
+/*Navigationbar*/
+
+nav ul{
+    margin:0 auto;
+    padding: 0;
+    list-style: none;
+    text-align: left;
+}
+
+ul li{
+    margin: 0 10px;
+    padding: 10px 0;
+    text-align: center;
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #518880;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+/*Reset margin and padding*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav+p{
+    font-size:12px;
+    text-align: right;
+    margin-right:20px;
+    color: #518880;
+    text-transform: uppercase;
+}
+
+h1{
+    margin-bottom: 10px;
+    font-weight: 100    ;
+    font-size:35px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    padding:80px 0;
+}
+
+h2{
+    font-size:26px;
+    color: #518880;
+    margin:0;
+    padding:0;
+}
+
+header h2+p{
+    padding:20px;
+    font-size: 17px;
+    color: white;
+}
+
+button{
+    margin-top:30px;
+    padding:27px 33px;
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+    border:1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background: none;
+}
+
+/*Header End*/
+
+/*Section Start*/
+
+section{
+    margin-left: 16%;
+    margin-right: 16%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+img{
+    width:280px;
+    height:200px;
+    border-radius: 5px;
+}
+
+article{
+    /*padding:5px;*/
+    margin:0 20px;
+    color: #A9B2B9;
+    float: left;
+}
+
+/*#speaker{*/
+    /*float: left;*/
+    /*margin:0 20px;*/
+    /*color: #A9B2B9;*/
+/*}*/
+
+/*#schedual{*/
+    /*float: left;*/
+    /*margin:0 20px;*/
+    /*color: #A9B2B9;*/
+/*}*/
+
+article>p{
+    width: 280px;
+    text-align: justify;
+    margin-bottom:60px;
+}
+
+h4{
+    padding:30px 0;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+h3{
+    font-size:18px;
+    padding: 30px 0;
+}
+
+/*Footer*/
+
+footer{
+    clear: left;
+    height: 100px;
+    background: #293F50;
+    color: rgb(255, 255, 255);
+}
+
+footer nav{
+    float: right;
+
+}
+footer nav ul{
+    margin:0 auto;
+    padding: 0;
+    list-style: none;
+}
+
+ul li{
+    margin: 0 10px;
+    padding: 10px 0;
+    text-align: center;
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+}
+
+footer p{
+    float: left;
+}

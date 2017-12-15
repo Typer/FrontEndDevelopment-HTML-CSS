@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: #1E1917;
+    font-family:'Roboto', 'Helvetica', sans-serif;
+    background: #EEEEEE;
+}
+
+main{
+    margin:0 auto;
+    /*text-align: center;*/
+    width: 800px;
+    box-sizing: border-box;
+}
+
+header{
+    background:#ffffff;
+    border-top: 10px solid #334E5A;
+    border-right: 10px solid #334E5A;
+    color: #334E5A;
+    height: 100px;
+}
+
+h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: left;
+    line-height: 100px;
+    margin-left: 40px;
+}
+
+form{
+    margin-top: 30px;
+}
+
+label{
+    font-size: 14px;
+    font-weight:500;
+    width: 100%;
+    text-align: left;
+    margin-left: 35px;
+    display: block;
+}
+
+[type="number"],
+ [type="text"],
+ [type="email"],
+ [type="password"]{
+    width:80%;
+    display: block;
+    /*margin-left: 35px;*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    border-top: 5px solid #334E5A;
+    border-left: 5px solid #334E5A;
+}
+
+.broadband,
+.radio{
+    margin-right: 200px;
+    display: inline-block;
+}
+
+label>div{
+    display: block;
+    margin:10px auto;
+}
+
+[type="radio"]{
+    background: #6d6d6d;
+    width: 30px;
+}
+
+.checkbox-container>label{
+    width: 100%;
+    display: block;
+    padding:5px 0;
+}
+
+.checkbox-container{
+    width:80%;
+    background: #ffffff;
+    border-top: 5px solid #334E5A;
+    border-left: 5px solid #334E5A;
+    margin-left: 40px;
+}
+
+.form-group>label{
+    margin-bottom: 10px;
+}
+
+p{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+a{
+    margin-left: 40px;
+    color: #136F63;
+    font-size: 15px;
+
+}
+
+.buttons{
+    margin:0 auto;
+    /*text-align: center;*/
+}
+
+.cencel,
+.save{
+    font-size: 15px;
+    font-weight: 700;
+    background: none;
+    border:none;
+    margin-left: 75px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cencel{
+    border-bottom: 5px solid #FC5533;
+    border-right: 5px solid #FC5533;
+    color: #FC5533;
+    width: 250px;
+    height: 40px;
+}
+
+.save{
+    border-bottom: 5px solid #1A6F63;
+    border-right: 5px solid #1A6F63;
+    color: #1A6F63;
+    width: 250px;
+    height: 40px;
+}
+/*backgroun EEEEEE*/
+/*border color #334E5A*/
+/*button cancel #FC5533*/
+/*button save #1A6F63*/ /*a #1A6F63*/
+/*Title: 40px;*/
+/*Labels: 14px/500;*/
+/*Buttons font-size: 15px/700;*/
+/*Link: #136F63, 15px, no-hover effect*/
+

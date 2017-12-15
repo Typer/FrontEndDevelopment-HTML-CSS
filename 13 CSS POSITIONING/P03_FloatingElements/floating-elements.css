@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+article{
+    margin:20px auto;
+    width: 400px;
+}
+
+div{
+    background: #6797EA;
+    width: 120px;
+    border:1px solid #6797EA;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+p{
+    text-align: justify;
+}
+
+.left {
+    float: left;
+    margin-right: 20px;
+}
+
+.right{
+    float: right;
+    margin-left: 20px;
+}
+
+.center{
+    margin: 20px auto;
+}

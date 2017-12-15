@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700" rel="stylesheet');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #26447A;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+nav{
+    height:40px;
+    width: 100%;
+}
+.nav-brand{
+    float: left;
+    height:20px;
+    margin-left: 25px;
+    margin-top:25px;
+}
+
+.nav-primary{
+    margin-top:20px;
+    margin-right:25px;
+    float: right;
+    padding: 0px;
+    height:40px;
+    line-height: 40px;
+    list-style: none;
+}
+
+.nav-primary li{
+    text-align: center;
+    display: inline-block;
+}
+
+.nav-primary li a{
+    font-size: 14px;
+    text-decoration: none;
+    padding:7px 14px;
+    color: #ffffff;
+}
+
+.nav-primary .nav-item::first-letter{
+    text-transform: uppercase;
+    font-size: 14px;
+
+}
+
+.nav-primary li:last-of-type a{
+    background: #45C2ED;
+    border-radius: 10px;
+    border: none;
+}
+
+.header-title{
+    margin:0 auto;
+    padding: 40px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 300;
+    margin-top:100px;
+    text-transform: capitalize;
+}
+
+.header-subtitle{
+    padding:0;
+    margin:0;
+    text-align: center;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #6697AB;
+}
+
+
+#button-container{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#button-container .header-btn.cta-btn{
+    padding: 7px 14px;
+    background: #45C2ED;
+    font-size: 14px;
+    border-radius: 10px;
+    border: none;
+    text-transform: capitalize;
+}
+
+/*Sections*/
+.header-services{
+    text-align: center;
+}
+
+.service{
+    display: inline-block;
+    vertical-align: top;
+}
+
+article{
+    width:300px;
+    margin-top: 40px;
+    text-align: left;
+}
+
+article:hover{
+    background: #45C2ED;
+}
+
+/*h2*/
+.service-title{
+    width:165px;
+    font-size:22px;
+    padding-top: 65px;
+    padding-left: 80px;
+}
+
+.service-intro{
+    font-size: 12px;
+    width:200px;
+    padding-top: 60px;
+padding-left: 65px;
+}
+
+.service-link{
+    padding: 20px 0;
+    color: #ffffff;
+    list-style: none;
+    text-decoration: none;
+    display: block;
+}
+

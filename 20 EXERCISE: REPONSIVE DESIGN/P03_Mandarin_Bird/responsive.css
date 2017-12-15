@@ -1,0 +1,84 @@
+@media screen and (max-width: 1200px){
+    #wrapper{
+        max-width: 100%;
+        box-sizing: border-box;
+        padding: 0 40px;
+    }
+
+    #wrapper>header{
+        max-width: 100%;
+    }
+
+    #wrapper>main{
+        max-width:100%;
+    }
+    #wrapper>footer{
+        max-width:100%;
+    }
+
+    header nav > ul li{
+        width:20%;
+    }
+
+    header{
+        -webkit-background-size: cover;
+        background-size: 100% 100%;
+    }
+
+    main section > div{
+        width:100%;
+        height:auto;
+    }
+    main section > div:after{
+        clear: both;
+        content: "";
+        display: block;
+    }
+
+    main > section > div > article{
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    main section {
+        box-sizing: border-box;
+        padding: 10px 15px;
+        max-width: 100%;
+        float: none;
+        margin-left: 0px;
+    }
+
+}
+
+@media screen and (max-width: 730px){
+    main aside{
+        width:100%;
+        float: none;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    main > aside > article{
+        margin-right: 0;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    /*main section{*/
+        /*padding:5px 10px;*/
+        /*width:100%;*/
+    /*}*/
+
+
+
+
+    /*main > section > div:nth-child(1) > div{*/
+        /*box-sizing: border-box;*/
+    /*}*/
+
+    /*main > aside > article{*/
+        /*width: 100%;*/
+    /*}*/
+
+}

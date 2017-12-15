@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45244684-d7b6-4131-b472-af8c673e2f38" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dream-vacation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam preparation/04.Dream-Vacation/dream-vacation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mountain-landing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/mountain-landing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="108" column="41" lean-forward="false" selection-start-line="108" selection-start-column="41" selection-end-line="108" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mountain-landing.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/mountain-landing.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4320">
+              <caret line="288" column="14" lean-forward="false" selection-start-line="288" selection-start-column="14" selection-end-line="288" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="room-reservation.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18 HTML FORMS &amp; FORM STYLING/P03_RoomReservation/room-reservation.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="room-reservation.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/18 HTML FORMS &amp; FORM STYLING/P03_RoomReservation/room-reservation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-276">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mountain-form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/03.MountainForm/mountain-form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/02.MountainResponsive/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2520">
+              <caret line="168" column="18" lean-forward="true" selection-start-line="168" selection-start-column="18" selection-end-line="168" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/02.MountainResponsive/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1305">
+              <caret line="87" column="49" lean-forward="true" selection-start-line="87" selection-start-column="49" selection-end-line="87" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mountain-rooms.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/01.MountainRooms/mountain-rooms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="103" lean-forward="false" selection-start-line="40" selection-start-column="103" selection-end-line="40" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>max-widt</find>
+      <find>min-widt</find>
+      <find>position</find>
+      <find>back</find>
+      <find>about-us-title</find>
+      <find>mission-p</find>
+      <find>travel</find>
+      <find>h1</find>
+      <find>footer-list</find>
+      <find>contact-list</find>
+      <find>background-</find>
+      <find>drop</find>
+      <find>posi</find>
+      <find>.form</find>
+      <find>.footer-item-link::before</find>
+      <find>fullscreen-bg</find>
+      <find>nav</find>
+      <find>navigation</find>
+      <find>naviga</find>
+      <find>sloga</find>
+      <find>logo</find>
+      <find>.planting-seed</find>
+      <find>planting-seed</find>
+      <find>h3</find>
+      <find>display</find>
+      <find>best-place</find>
+      <find>.about-us p</find>
+      <find>fa</find>
+      <find>hr</find>
+      <find>header</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/20 EXERCISE: REPONSIVE DESIGN/P04_ProductPage/product-page.html" />
+        <option value="$PROJECT_DIR$/20 EXERCISE: REPONSIVE DESIGN/P05_Responsive_Cars/responsive.css" />
+        <option value="$PROJECT_DIR$/20 EXERCISE: REPONSIVE DESIGN/P06_Planets/styles.css" />
+        <option value="$PROJECT_DIR$/20 EXERCISE: REPONSIVE DESIGN/P06_Planets/responsive.css" />
+        <option value="$PROJECT_DIR$/20 EXERCISE: REPONSIVE DESIGN/P07_Communication-Company/responsive.css" />
+        <option value="$PROJECT_DIR$/21 TRANSITIONS &amp; ANIMATIONS/P02_Kitchen_Design-Transitions/styles.css" />
+        <option value="$PROJECT_DIR$/22 EXERCISE: TRANSITIONS &amp; ANIMATIONS/P01_SimpleHoverAnimation/simple-hover-animtion.css" />
+        <option value="$PROJECT_DIR$/22 EXERCISE: TRANSITIONS &amp; ANIMATIONS/P02_SlidingAnimations/sliding.css" />
+        <option value="$PROJECT_DIR$/22 EXERCISE: TRANSITIONS &amp; ANIMATIONS/P03_Loader/loader.css" />
+        <option value="$PROJECT_DIR$/18 HTML FORMS &amp; FORM STYLING/P02_Product-Form/product-from.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/01_BeatsPricingPage/beats-product-page.html" />
+        <option value="$PROJECT_DIR$/Exam preparation/01_BeatsPricingPage/beats-product-page.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/02_BeatsUnresponsive/responsive.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/03_BeatsOrderForm/text.txt" />
+        <option value="$PROJECT_DIR$/Exam preparation/03_BeatsOrderForm/beats-order-form.html" />
+        <option value="$PROJECT_DIR$/Exam preparation/04_BeatsLandingPage/text.txt" />
+        <option value="$PROJECT_DIR$/Exam preparation/04_BeatsLandingPage/beats-landing-page.html" />
+        <option value="$PROJECT_DIR$/Exam preparation/04_BeatsLandingPage/beats-landing-page.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/03_BeatsOrderForm/beats-order-form.css" />
+        <option value="$PROJECT_DIR$/14 EXERCISE: CSS POSITIONING/P01_PricingList/pricing-list.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/get-in-touch.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/text.txt" />
+        <option value="$PROJECT_DIR$/../../team-work-kiev/team-work.github.io/vera/vera.html" />
+        <option value="$PROJECT_DIR$/Exam preparation/01.Featured-Tours/text.txt" />
+        <option value="$PROJECT_DIR$/Exam preparation/01.Featured-Tours/heatured-toures.html" />
+        <option value="$PROJECT_DIR$/Exam preparation/01.Featured-Tours/heatured-toures.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/02.Best-Trip-Ever/responsive.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/02.Best-Trip-Ever/best-trip-ever.html" />
+        <option value="$PROJECT_DIR$/Verra/vera-nav.html" />
+        <option value="$PROJECT_DIR$/Verra/vera-nav.css" />
+        <option value="$PROJECT_DIR$/Team_Project_Kiev/products-articles.css" />
+        <option value="$PROJECT_DIR$/Team_Project_Kiev/products-articles.html" />
+        <option value="$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/git.html" />
+        <option value="$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/git.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/get-in-touch.html" />
+        <option value="$PROJECT_DIR$/Exam preparation/04.Dream-Vacation/text.txt" />
+        <option value="$PROJECT_DIR$/Exam preparation/04.Dream-Vacation/dream-vacation.css" />
+        <option value="$PROJECT_DIR$/Exam preparation/04.Dream-Vacation/dream-vacation.html" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/01.MountainRooms/text.txt" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/01.MountainRooms/mountain-rooms.html" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/01.MountainRooms/mountain-rooms.css" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/02.MountainResponsive/index.html" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/02.MountainResponsive/style.css" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/02.MountainResponsive/responsive.css" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/03.MountainForm/text.txt" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/03.MountainForm/mountain-form.css" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/03.MountainForm/mountain-form.html" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/mountain-landing..css" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/text.txt" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/mountain-landing.html" />
+        <option value="$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/mountain-landing.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1262" />
+    <option name="height" value="798" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FrontEndDevelopment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrontEndDevelopment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrontEndDevelopment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrontEndDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="18 HTML FORMS &amp; FORM STYLING" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrontEndDevelopment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrontEndDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="18 HTML FORMS &amp; FORM STYLING" type="462c0819:PsiDirectoryNode" />
+              <item name="P03_RoomReservation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="SearchEverywhereHistoryKey" value="*{&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/17 HTML FORMS &amp; FORM STYLING/P02_LoginForm-font-awesome" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exam preparation" />
+      <recent name="$PROJECT_DIR$/07 INTROCUTION TO CSS/03. CSS-Selectors-and-Rules-Lab-Resources/P01_PhotoShootEffect" />
+      <recent name="$PROJECT_DIR$/06 EXERCISE: HTML STRUCTURE" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45244684-d7b6-4131-b472-af8c673e2f38" name="Default" comment="" />
+      <created>1506021545383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506021545383</updated>
+      <workItem from="1506021547085" duration="660000" />
+      <workItem from="1506022211581" duration="1878000" />
+      <workItem from="1506062361069" duration="8000" />
+      <workItem from="1506066068939" duration="38000" />
+      <workItem from="1506075643948" duration="36178000" />
+      <workItem from="1506610995459" duration="21939000" />
+      <workItem from="1506928706790" duration="20786000" />
+      <workItem from="1507142103054" duration="2958000" />
+      <workItem from="1507215726644" duration="28554000" />
+      <workItem from="1507561497360" duration="115785000" />
+      <workItem from="1508771424291" duration="26387000" />
+      <workItem from="1508909776687" duration="6528000" />
+      <workItem from="1508938722869" duration="22506000" />
+      <workItem from="1509103591516" duration="15799000" />
+      <workItem from="1509281317277" duration="20678000" />
+      <workItem from="1510076533253" duration="34000" />
+      <workItem from="1510942970223" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="320782000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="798" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21916842" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/16 EXERCISE: CREATING LANDING PAGES/screenshots/code-mesh(1).jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 EXERCISE: CSS POSITIONING/P05_ZoraProperties/screenshots/zora.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 EXERCISE: CSS POSITIONING/P05_ZoraProperties/screenshots/zora-hover.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 EXERCISE: CSS POSITIONING/P03_Services/screenshots/services-hover.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 CSS IN DEPTH/plan-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12 EXERCISE: CSS FORMATTING/P02_OptionPanels/screenshots/option-panels-hover.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 CSS POSITIONING/P04_ClearFloating/clear-floating.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 CSS POSITIONING/P04_ClearFloating/clear-floating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12 EXERCISE: CSS FORMATTING/P03_BBCNews/bbc-news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12 EXERCISE: CSS FORMATTING/P02_OptionPanels/option-panels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12 EXERCISE: CSS FORMATTING/P01_BookReview/book-review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 CSS FORMATTING/briard-history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 CSS POSITIONING/P03_FloatingElements/floating-elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 EXERCISE: CSS IN DEPTH/P02_WebAgency/web-agency.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 CSS POSITIONING/P01_SocialMedia/screenshots/social-media.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 CSS POSITIONING/P02_DropDown/drop-down-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18 HTML FORMS &amp; FORM STYLING/P02_Product-Form/product-from.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/01.Featured-Tours/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../team-work-kiev/team-work.github.io/vera/vera.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 CSS POSITIONING/P01_SocialMedia/screenshots/social-media-hover.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/01.Featured-Tours/heatured-toures.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verra/vera-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="34" column="6" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verra/vera-nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="142" column="4" lean-forward="true" selection-start-line="142" selection-start-column="4" selection-end-line="153" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team_Project_Kiev/products-articles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team_Project_Kiev/products-articles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="291" column="36" lean-forward="false" selection-start-line="291" selection-start-column="36" selection-end-line="291" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/02.Best-Trip-Ever/best-trip-ever.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="121" column="7" lean-forward="false" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/get-in-touch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/01.Featured-Tours/heatured-toures.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/get-in-touch.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/git.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1115">
+          <caret line="81" column="32" lean-forward="false" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/03.Get-in-Touch/git.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/04.Dream-Vacation/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/01.MountainRooms/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/02.Best-Trip-Ever/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/03.MountainForm/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/02.MountainResponsive/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="123" column="14" lean-forward="true" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/02.Best-Trip-Ever/best-trip-ever.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/01.MountainRooms/mountain-rooms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/04.Dream-Vacation/dream-vacation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="23" lean-forward="false" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/03.MountainForm/mountain-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam preparation/04.Dream-Vacation/dream-vacation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/03.MountainForm/mountain-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/02.MountainResponsive/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="168" column="18" lean-forward="true" selection-start-line="168" selection-start-column="18" selection-end-line="168" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/02.MountainResponsive/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="49" lean-forward="true" selection-start-line="87" selection-start-column="49" selection-end-line="87" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/01.MountainRooms/mountain-rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="103" lean-forward="false" selection-start-line="40" selection-start-column="103" selection-end-line="40" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/mountain-landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="41" lean-forward="false" selection-start-line="108" selection-start-column="41" selection-end-line="108" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam_29-10-2017/04.MountainLanding/mountain-landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="288" column="14" lean-forward="false" selection-start-line="288" selection-start-column="14" selection-end-line="288" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18 HTML FORMS &amp; FORM STYLING/P03_RoomReservation/room-reservation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18 HTML FORMS &amp; FORM STYLING/P03_RoomReservation/room-reservation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

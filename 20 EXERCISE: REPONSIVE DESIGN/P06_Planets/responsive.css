@@ -1,0 +1,104 @@
+﻿@media screen and (max-width: 1000px) {
+    #wrapper{
+        max-width:100%;
+    }
+
+    header{
+        max-width: 100%;
+    }
+
+    #logoarea{
+        float: none;
+        width: 100%;
+        padding:32px 5px 31px 5px;
+    }
+
+    #header-area-right{
+        float: none;
+        height: auto;
+        width:100%;
+        padding: 0;
+    }
+
+    #menu{
+        display: block;
+        float: none;
+        width: 100%;
+        margin:0 auto;
+    }
+
+    #nav-menu{
+        justify-content: center;
+    }
+
+    #search-form{
+        float: none;
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
+
+    section.contentblock{
+        max-width:100%;
+    }
+
+    #publicphotos{
+        max-width: 100%;
+        padding: 10px 10px;
+    }
+
+    #p-albums-items{
+        max-width: 100%;
+        justify-content: center;
+    }
+
+    .p-photos-block{
+        width: 30%;
+        height: auto;
+    }
+
+    .p-photos-block a.aimgi{
+        max-width: 100%;
+        margin:0 auto;
+        overflow: hidden;
+    }
+
+    [alt="Saturn"], [alt="Jupiter"], [alt="Mars"], [alt="Earth"], [alt="Venus"],
+    [alt="Mercury"], [alt="Sun"], [alt="Blue Lagoon"]{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 756px) {
+
+    header{
+        max-width: 100%;
+    }
+
+    #header-area-right{
+        max-width: 100%;
+    }
+
+    #menu{
+        max-width: calc(100% - 20px);
+    }
+    #nav-menu{
+        text-align: center;
+        max-width: 100%;
+        display: block;
+    }
+
+    #nav-menu li{
+        width: 100%;
+        padding:10px 0px;
+    }
+
+    #nav-menu a{
+        width: calc(100% - 69px);
+    }
+
+    .p-photos-block{
+        width: 40%;
+        height: auto;
+    }
+}

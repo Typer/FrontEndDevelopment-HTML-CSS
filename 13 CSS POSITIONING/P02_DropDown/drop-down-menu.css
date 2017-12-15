@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #1d211e;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/*Main nav row*/
+
+nav{
+    margin-top: 30px;
+    text-align: center;
+    background: #e67c1f
+
+}
+.main-nav{
+    /*padding: 15px;*/
+    display: inline-block;
+    color: #ffffff;
+}
+
+ul li{
+    /*display: none;*/
+    padding: 16px;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/*End Main nav row*/
+
+/*Show nested ul block drop down*/
+
+nav ul ul{
+    display: none;
+    position: absolute;
+
+    /*Moe vijdane na neshtata*/
+    margin-top: 16px;
+    margin-left: -57px;
+}
+
+nav ul ul ul {
+    display: none;
+    position: absolute;
+
+    /*Moe vijdane na neshtata*/
+    margin-top: -38px;
+    margin-left: 55px;
+}
+
+nav ul li:hover > ul{
+    display: inline-block;
+    background: #e67c1f;
+    list-style:none;
+    text-align: center;
+}
+
+/*End nested ul block*/
+
+.second-drop-down li:hover{
+    background: #1d211e;
+}

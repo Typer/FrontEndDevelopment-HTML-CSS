@@ -1,0 +1,19 @@
+table{
+    border-spacing: 0px;
+}
+
+table thead tr th{
+    border: 1px solid #c6c7cc;
+    padding:10px;
+}
+
+table tbody tr td{
+    border: 1px solid #c6c7cc;
+    padding:10px;
+
+}
+
+tfoot tr td{
+    border: 1px solid #c6c7cc;
+    padding:10px;
+}

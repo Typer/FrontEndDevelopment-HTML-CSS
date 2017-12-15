@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    font-family: 'Lato', sans-serif;
+    font-size:14px;
+    background: url("images/dark-wood.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
+}
+
+/*HEADER*/
+
+header{
+    margin:0 auto;
+    background: url("images/header-page.jpg");
+    height: 150px;
+    width: 900px;
+}
+
+h1{
+    line-height: 150px;
+    font-size: 50px;
+    float: right;
+    padding-right: 10px;
+}
+
+/*NAV BAR*/
+
+nav{
+    background: url("images/header-page.jpg");
+    margin:5px auto;
+    width: 900px;
+    height: 30px;
+}
+
+nav ul{
+    margin:0;
+    padding-left: 10px;
+    height:30px;
+    line-height:30px;
+    float: left;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a{
+    font-size: 17px;
+    padding: 0 20px;
+    text-transform: lowercase;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav ul li:first-of-type a{
+    font-size: 17px;
+    padding:0 20px;
+    text-transform: lowercase;
+    text-decoration: none;
+    color: #4f4f4f;
+}
+
+nav ul li a:hover{
+    font-size: 17px;
+    padding:0 20px;
+    text-transform: lowercase;
+    text-decoration: none;
+    color: #4f4f4f;
+}
+
+/*MAIN*/
+
+main{
+    margin:5px auto;
+    width: 900px;
+    height: 540px;
+    background: #ffffff;
+    
+}
+
+article{
+    width:630px;
+    float: left;
+
+    border-right: 1px solid #e2e2e2;
+    padding-right: 5px;
+}
+
+figure{
+    margin: 30px;
+    float: left;
+    outline:1px solid #e2e2e2;
+    outline-offset: 5px;
+}
+
+article div{
+    margin: 0;
+}
+
+article div h2{
+    padding-top:45px;
+    font-size: 26px;
+    color: #5D5D5D;
+}
+
+article div h3{
+    color: #DEC279;
+}
+
+article p{
+    padding-top: 18px;
+    color: #5D5D5D;
+}
+/*aside{*/
+    /*float: right;*/
+    /*width:250px;*/
+/*}*/
+
+.popular-recipes{
+    color: #DF6582;
+    padding-top: 50px;
+    padding-left: 640px;
+
+}
+
+.popular-recipes h2{
+    padding-left: 20px;
+    font-size: 26px;
+}
+
+
+.popular-recipes ul{
+    width:200px;
+    list-style: none;
+    padding: 20px;
+}
+
+.popular-recipes ul li{
+    padding:0 10px;
+}
+
+
+.popular-recipes ul li a{
+    color: #DF6582;
+    line-height:2;
+    font-size: 14px;
+    text-decoration: none;
+    border-bottom: 1px solid #e2e2e2;
+    outline-offset: 10px;
+}
+
